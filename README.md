@@ -1,2 +1,3 @@
 # first_one
-the fist one 
+the first one 
+author - Aditya Soni
